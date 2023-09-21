@@ -6,7 +6,7 @@
         "number": 1,
         "subjects": [
           {"name": "HS3151 Professional English – I", "link": "https://toastmasterscdn.azureedge.net/medias/files/clubcentral/club-meeting-roles/675e-timer-script-and-log.zip"},
-          {"name": "MA3151 Matrices and Calculus", "link": "https://example.com/subject1.2.pdf"},
+          {"name": "MA3151 Matrices and Calculus", "link": "https://github.com/Bennyhinn18/Files/blob/main/new.pdf"},
           {"name": "PH3151 Engineering Physics", "link": "https://example.com/subject1.2.pdf"},
           {"name": "CY3151 Engineering Chemistry", "link": "https://example.com/subject1.2.pdf"},
           {"name": "GE3151 Problem Solving and Python Programming", "link": "https://example.com/subject1.2.pdf"}
