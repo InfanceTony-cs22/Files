@@ -51,7 +51,27 @@
                 {"name": "CB3491 Cryptography and Cyber Security", "link": "https://example.com/subject2.2.pdf"},
                 {"name": "CS3551 Distributed Computing", "link": "https://example.com/subject2.2.pdf"}
               ]
-            }
+            },
+          {
+              "number":6,
+              "subjects":[
+                  {"name": "CCS356 Object Oriented Software Engineering", "link": "https://example.com/subject2.1.pdf"},
+                  {"name": "CS3691 Embedded Systems and IoT","link":"'https://example.com/subject2.2.pdf"}
+              ]
+          },
+          {
+              "number":7,
+              "subjects":[
+                  {"name": "GE3791 Human Values and Ethics", "link": "https://example.com/subject2.1.pdf"},
+                  {"name": "CS3711 Summer internship","link":"'https://example.com/subject2.2.pdf"}
+              ] 
+          },
+          {
+              "number":8,
+              "subjects":[
+                  {"name": "CS3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
+              ] 
+          },
         ]
         },
     
