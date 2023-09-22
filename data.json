@@ -1,4 +1,3 @@
-
 [
     {
       "name": "Computer Science and Engineering",
@@ -139,59 +138,62 @@
           "subjects": [
             {"name": "HS3251 Professional English – II", "link": "https://doc-0s-68-docs.googleusercontent.com/docs/securesc/7fraj6pth3ijvlu53p2haa5nn2s2nbke/rvsp26godnpnj6bkkj5igsg2rn8a3pkg/1694781450000/10161465454823341179/12841619834798085089/1GpQTbz5ang9I4BXk-B9B7QFlv80G47JT?e=download&ax=AA75yW54-Fb0P4zFuOK_ANQDcKVjqdiw7tVfpvJsSWP6zYBVZkSCyT194ZLPndZxc71Z8d-Hc4ePBBfOLapvUqHx6v6wMwBVmqdX7e7gMRk1avtf83g-eeYxScUfaoRbdR8PUUBstnuXlOFmTZCnKrSQ7AhW1LFqTsCfupvVVwPeGhK4vnODMYM_TcWG8NLihQTO5mvl6V4NYTgZCl2_MSV2CEuhwkZ52d9t8zsfYuweUCqRx5ZxToe2hm3V6Ka2zZIn9atlM3CCfmGrVtG4vVjN5wicrfKQoPBo5zT7bwM1re0KpNlJUXv_B6w2I1JDS3Fo52B9SNz_2cNyCcmgMF9Mmur47_SU7SuIDzugoODL4aRYXYdmtmheb9v2j0UpTUU9WM0WQ_DEOAh6Um8ZOCmqfLZfjOFFj-vCdxS6U_Yth8KgrbQnOfCAbDyJ5n6M1wVVXfUPOwBS2V3d_isGe4ZxbtcS2fPoZx7J9y5Vian_0-vCFWQruUn45Ow-ivIIOzrFpu-fhlTSKdC0PDIJKtMIChHk-iW1uG_sS57SkUEEW5hqqzTij4BpU7cR2GpxgiIukg2zw6CpLnYxBfL5BVLcQDcy5zRhpDKBOHpiN3KCzG3A0lFc_Nw7ztZVhTcjZYAKGxRt-731tgU0t0qgMLHzyhsJ4P-kDgpn99IPr5WJ6uO8wm3cVEpQPi0JE5g43iJ-NI35r1CwesgruHdLaYiZchtevXfogYiBNDDuXDVCI775q4a5HTXK0HTg3MUvkxUlsEqGO5OIfKhcoiXNp49b72ZROejAm-uZs8xTqG6LrSt0ecaP2Xfv5yFPCncARexsaE32RkxVkJBdI4hlazym3YxX62Ips6dRgFo4-QDaLY6gg1zc01GwNu9o4IudpDQ&uuid=3e8ff9d3-4edc-4867-b6ce-a7a98093662f&authuser=0"},
             {"name": "MA3251 Statistics and Numerical Methods", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "PH3256 Physics for Information Science", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "PH3251 Materials Science", "link": "https://example.com/subject2.2.pdf"},
             {"name": "BE3251 Basic Electrical and Electronics Engineering", "link": "https://example.com/subject2.2.pdf"},
             {"name": "GE3251 Engineering Graphics", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3251 Programming in C", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
           "number": 3,
           "subjects": [
-            {"name": "MA3354 Discrete Mathematics", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3351 Digital Principles and Computer Organization", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3352 Foundations of Data Science", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3301 Data Structures", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3391 Object Oriented Programming", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "MA3351 Transforms and Partial Differential Equations", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "ME3351 Engineering Mechanics", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3391 Engineering Thermodynamics", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "CE3391 Fluid Mechanics and Machinery", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3392 Engineering Materials and Metallurgy", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3393 Manufacturing Processes", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3381 Computer Aided Machine Drawing", "link": "https://example.com/subject2.2.pdf"},
           ]
         },
         {
           "number": 4,
           "subjects": [
-            {"name": "CS3451 Operating Systems", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3452 Database Management Systems", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "MA3451 Probability and Queueing Theory", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3453 Web Technology", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3491 Cyber Security", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "ME3491 Theory of Machines", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "ME3451 Thermal Engineering", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3492 Hydraulics and Pneumatics", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "ME3493 Manufacturing Technology", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "CE3491 Strength of Materials", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "GE3451 Environmental Sciences and Sustainability", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
             "number":5,
             "subjects":[
-                {"name": "CS3591 Computer Networks", "link": "https://example.com/subject1.2.pdf"},
-                {"name": "CS3501 Compiler Design", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CB3491 Cryptography and Cyber Security", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CS3551 Distributed Computing", "link": "https://example.com/subject2.2.pdf"}
+                {"name": "ME3591 Design of Machine Elements", "link": "https://example.com/subject1.2.pdf"},
+                {"name": "ME3592 Metrology and Measurements", "link": "https://example.com/subject2.2.pdf"},
+                {"name": "ME3511 Summer Internship", "link": "https://example.com/subject2.2.pdf"},
               ]
             },
           {
               "number":6,
               "subjects":[
-                  {"name": "CCS356 Object Oriented Software Engineering", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3691 Embedded Systems and IoT","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "ME3691 Heat and Mass Transfer", "link": "https://example.com/subject2.1.pdf"},
               ]
           },
           {
               "number":7,
               "subjects":[
-                  {"name": "GE3791 Human Values and Ethics", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3711 Summer internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "ME3791 Mechatronics and IoT", "link": "https://example.com/subject2.1.pdf"},
+                  {"name": "ME3792 Computer Integrated Manufacturing","link":"'https://example.com/subject2.2.pdf"},
+                  {"name": "GE3791 Human Values and Ethics","link":"'https://example.com/subject2.2.pdf"},
+                  {"name": "GE3792 Industrial Management","link":"'https://example.com/subject2.2.pdf"},
+                  {"name": "ME3711 Summer Internship","link":"'https://example.com/subject2.2.pdf"}
               ] 
           },
           {
               "number":8,
               "subjects":[
-                  {"name": "CS3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "ME3811 Project Work / Internship","link":"'https://example.com/subject2.2.pdf"}
               ] 
           }
         ]
@@ -214,59 +216,60 @@
           "subjects": [
             {"name": "HS3251 Professional English – II", "link": "https://doc-0s-68-docs.googleusercontent.com/docs/securesc/7fraj6pth3ijvlu53p2haa5nn2s2nbke/rvsp26godnpnj6bkkj5igsg2rn8a3pkg/1694781450000/10161465454823341179/12841619834798085089/1GpQTbz5ang9I4BXk-B9B7QFlv80G47JT?e=download&ax=AA75yW54-Fb0P4zFuOK_ANQDcKVjqdiw7tVfpvJsSWP6zYBVZkSCyT194ZLPndZxc71Z8d-Hc4ePBBfOLapvUqHx6v6wMwBVmqdX7e7gMRk1avtf83g-eeYxScUfaoRbdR8PUUBstnuXlOFmTZCnKrSQ7AhW1LFqTsCfupvVVwPeGhK4vnODMYM_TcWG8NLihQTO5mvl6V4NYTgZCl2_MSV2CEuhwkZ52d9t8zsfYuweUCqRx5ZxToe2hm3V6Ka2zZIn9atlM3CCfmGrVtG4vVjN5wicrfKQoPBo5zT7bwM1re0KpNlJUXv_B6w2I1JDS3Fo52B9SNz_2cNyCcmgMF9Mmur47_SU7SuIDzugoODL4aRYXYdmtmheb9v2j0UpTUU9WM0WQ_DEOAh6Um8ZOCmqfLZfjOFFj-vCdxS6U_Yth8KgrbQnOfCAbDyJ5n6M1wVVXfUPOwBS2V3d_isGe4ZxbtcS2fPoZx7J9y5Vian_0-vCFWQruUn45Ow-ivIIOzrFpu-fhlTSKdC0PDIJKtMIChHk-iW1uG_sS57SkUEEW5hqqzTij4BpU7cR2GpxgiIukg2zw6CpLnYxBfL5BVLcQDcy5zRhpDKBOHpiN3KCzG3A0lFc_Nw7ztZVhTcjZYAKGxRt-731tgU0t0qgMLHzyhsJ4P-kDgpn99IPr5WJ6uO8wm3cVEpQPi0JE5g43iJ-NI35r1CwesgruHdLaYiZchtevXfogYiBNDDuXDVCI775q4a5HTXK0HTg3MUvkxUlsEqGO5OIfKhcoiXNp49b72ZROejAm-uZs8xTqG6LrSt0ecaP2Xfv5yFPCncARexsaE32RkxVkJBdI4hlazym3YxX62Ips6dRgFo4-QDaLY6gg1zc01GwNu9o4IudpDQ&uuid=3e8ff9d3-4edc-4867-b6ce-a7a98093662f&authuser=0"},
             {"name": "MA3251 Statistics and Numerical Methods", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "PH3256 Physics for Information Science", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "BE3251 Basic Electrical and Electronics Engineering", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "PH3254 Physics for Electronics Engineering", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "BE3254 Electrical and Instrumentation Engineering", "link": "https://example.com/subject2.2.pdf"},
             {"name": "GE3251 Engineering Graphics", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3251 Programming in C", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "EC3251 Circuit Analysis", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
           "number": 3,
           "subjects": [
-            {"name": "MA3354 Discrete Mathematics", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3351 Digital Principles and Computer Organization", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3352 Foundations of Data Science", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3301 Data Structures", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3391 Object Oriented Programming", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "MA3355 Random Processes and Linear Algebra", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "CS3353 C Programming and Data Structures", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3354 Signals and Systems", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3353 Electronic Devices and Circuits", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3351 Control Systems", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3352 Digital Systems Design", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
           "number": 4,
           "subjects": [
-            {"name": "CS3451 Operating Systems", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3452 Database Management Systems", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "MA3451 Probability and Queueing Theory", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3453 Web Technology", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3491 Cyber Security", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "EC3452 Electromagnetic Fields", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "EC3401 Networks and Security", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3451 Linear Integrated Circuits", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3492 Digital Signal Processing", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3491 Communication Systems", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "GE3451 Environmental Sciences and Sustainability", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
             "number":5,
             "subjects":[
-                {"name": "CS3591 Computer Networks", "link": "https://example.com/subject1.2.pdf"},
-                {"name": "CS3501 Compiler Design", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CB3491 Cryptography and Cyber Security", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CS3551 Distributed Computing", "link": "https://example.com/subject2.2.pdf"}
+                {"name": "EC3501 Wireless Communications", "link": "https://example.com/subject1.2.pdf"},
+                {"name": "EC3552 VLSI and Chip Design", "link": "https://example.com/subject2.2.pdf"},
+                {"name": "EC3551 Transmission lines and RF Systems", "link": "https://example.com/subject2.2.pdf"}
               ]
             },
           {
               "number":6,
               "subjects":[
-                  {"name": "CCS356 Object Oriented Software Engineering", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3691 Embedded Systems and IoT","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "ET3491 Embedded Systems and IOT Design", "link": "https://example.com/subject2.1.pdf"},
+                  {"name": "CS3491 Artificial Intelligence and Machine Learning","link":"'https://example.com/subject2.2.pdf"}
               ]
           },
           {
               "number":7,
               "subjects":[
                   {"name": "GE3791 Human Values and Ethics", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3711 Summer internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "EC3711 Summer internship","link":"'https://example.com/subject2.2.pdf"}
               ] 
           },
           {
               "number":8,
               "subjects":[
-                  {"name": "CS3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "EC3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
               ] 
           }
         ]
@@ -289,59 +292,61 @@
           "subjects": [
             {"name": "HS3251 Professional English – II", "link": "https://doc-0s-68-docs.googleusercontent.com/docs/securesc/7fraj6pth3ijvlu53p2haa5nn2s2nbke/rvsp26godnpnj6bkkj5igsg2rn8a3pkg/1694781450000/10161465454823341179/12841619834798085089/1GpQTbz5ang9I4BXk-B9B7QFlv80G47JT?e=download&ax=AA75yW54-Fb0P4zFuOK_ANQDcKVjqdiw7tVfpvJsSWP6zYBVZkSCyT194ZLPndZxc71Z8d-Hc4ePBBfOLapvUqHx6v6wMwBVmqdX7e7gMRk1avtf83g-eeYxScUfaoRbdR8PUUBstnuXlOFmTZCnKrSQ7AhW1LFqTsCfupvVVwPeGhK4vnODMYM_TcWG8NLihQTO5mvl6V4NYTgZCl2_MSV2CEuhwkZ52d9t8zsfYuweUCqRx5ZxToe2hm3V6Ka2zZIn9atlM3CCfmGrVtG4vVjN5wicrfKQoPBo5zT7bwM1re0KpNlJUXv_B6w2I1JDS3Fo52B9SNz_2cNyCcmgMF9Mmur47_SU7SuIDzugoODL4aRYXYdmtmheb9v2j0UpTUU9WM0WQ_DEOAh6Um8ZOCmqfLZfjOFFj-vCdxS6U_Yth8KgrbQnOfCAbDyJ5n6M1wVVXfUPOwBS2V3d_isGe4ZxbtcS2fPoZx7J9y5Vian_0-vCFWQruUn45Ow-ivIIOzrFpu-fhlTSKdC0PDIJKtMIChHk-iW1uG_sS57SkUEEW5hqqzTij4BpU7cR2GpxgiIukg2zw6CpLnYxBfL5BVLcQDcy5zRhpDKBOHpiN3KCzG3A0lFc_Nw7ztZVhTcjZYAKGxRt-731tgU0t0qgMLHzyhsJ4P-kDgpn99IPr5WJ6uO8wm3cVEpQPi0JE5g43iJ-NI35r1CwesgruHdLaYiZchtevXfogYiBNDDuXDVCI775q4a5HTXK0HTg3MUvkxUlsEqGO5OIfKhcoiXNp49b72ZROejAm-uZs8xTqG6LrSt0ecaP2Xfv5yFPCncARexsaE32RkxVkJBdI4hlazym3YxX62Ips6dRgFo4-QDaLY6gg1zc01GwNu9o4IudpDQ&uuid=3e8ff9d3-4edc-4867-b6ce-a7a98093662f&authuser=0"},
             {"name": "MA3251 Statistics and Numerical Methods", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "PH3256 Physics for Information Science", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "BE3251 Basic Electrical and Electronics Engineering", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "PH3202 Physics for Electrical Engineering", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "BE3255 Basic Civil and Mechanical Engineering", "link": "https://example.com/subject2.2.pdf"},
             {"name": "GE3251 Engineering Graphics", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3251 Programming in C", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "EE3251 Electric Circuit Analysis", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
           "number": 3,
           "subjects": [
-            {"name": "MA3354 Discrete Mathematics", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3351 Digital Principles and Computer Organization", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3352 Foundations of Data Science", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3301 Data Structures", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3391 Object Oriented Programming", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "MA3303 Probability and Complex Functions", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "EE3301 Electromagnetic Fields", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3302 Digital Logic Circuits", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3303 Electrical Machines – I", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "CS3353 C Programming and Data Structures", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EC3311 Electronic Devices and Circuits Laboratory", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3311 Electrical Machines Laboratory – I", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
           "number": 4,
           "subjects": [
-            {"name": "CS3451 Operating Systems", "link": "https://example.com/subject2.1.pdf"},
-            {"name": "CS3452 Database Management Systems", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "MA3451 Probability and Queueing Theory", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3453 Web Technology", "link": "https://example.com/subject2.2.pdf"},
-            {"name": "CS3491 Cyber Security", "link": "https://example.com/subject2.2.pdf"}
+            {"name": "GE3451 Environmental Sciences and Sustainability", "link": "https://example.com/subject2.1.pdf"},
+            {"name": "EE3401 Transmission and Distribution", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3402 Linear Integrated Circuits", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3403 Measurements and Instrumentation", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3404 Microprocessor and Microcontroller", "link": "https://example.com/subject2.2.pdf"},
+            {"name": "EE3404 Microprocessor and Microcontroller", "link": "https://example.com/subject2.2.pdf"}
           ]
         },
         {
             "number":5,
             "subjects":[
-                {"name": "CS3591 Computer Networks", "link": "https://example.com/subject1.2.pdf"},
-                {"name": "CS3501 Compiler Design", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CB3491 Cryptography and Cyber Security", "link": "https://example.com/subject2.2.pdf"},
-                {"name": "CS3551 Distributed Computing", "link": "https://example.com/subject2.2.pdf"}
+                {"name": "EE3501 Power System Analysis", "link": "https://example.com/subject1.2.pdf"},
+                {"name": "EE3591 Power Electronics", "link": "https://example.com/subject2.2.pdf"},
+                {"name": "EE3503 Control Systems", "link": "https://example.com/subject2.2.pdf"}
               ]
             },
           {
               "number":6,
               "subjects":[
-                  {"name": "CCS356 Object Oriented Software Engineering", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3691 Embedded Systems and IoT","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "EE3601 Protection and Switchgear", "link": "https://example.com/subject2.1.pdf"},
+                  {"name": "EE3602 Power System Operation and Control","link":"'https://example.com/subject2.2.pdf"}
               ]
           },
           {
               "number":7,
               "subjects":[
                   {"name": "GE3791 Human Values and Ethics", "link": "https://example.com/subject2.1.pdf"},
-                  {"name": "CS3711 Summer internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "EE3701 High Voltage Engineering","link":"'https://example.com/subject2.2.pdf"}
               ] 
           },
           {
               "number":8,
               "subjects":[
-                  {"name": "CS3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
+                  {"name": "EE3811 Project Work/Internship","link":"'https://example.com/subject2.2.pdf"}
               ] 
           }
         ]
